@@ -128,5 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-django-models/I4G0017805SI/db.sqlite3
-django-models/I4G0017805SI/I4G0017805SI/key
+I4G0017805SI/I4G0017805SI/key
